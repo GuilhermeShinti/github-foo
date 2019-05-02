@@ -12,7 +12,7 @@ Aqui vale tudo!
 
 ### Onde nasceu a idéia
 
-Eu escrevi um [artigo](http://devfuria.com.br/git/tutorial-iniciando-git/) para iniciantes em git e GitHub e um dos 
+Eu escrevi um [artigo](http://devfuria.com.br/git/tutorial-iniciando-git/) para iniciantes em git e GitHub e um dos
 desafios que todo iniciante se depara, quando está aprendo, é praticar os processos de fork, pull request, etc...
 
 Talvez falte um lugar neutro, onde a gente possa testar, experimentar, bagunçar, se divertir um pouco, etc...
@@ -41,5 +41,11 @@ Minha sugestão:
 Depois de ter se divertido, convido a deixar um depoimento se foi legal ou não
 e se você aprendeu alguma coisa com este repositório.
 
-1. https://github.com/flaviomicheletti - aprendi que posso ajudar outras pessoas a aprenderem a programar e desenvolver softwares.
-2. deixe seu recado aqui.
+1. [@flaviomicheletti](https://github.com/flaviomicheletti "Flávio Micheletti") 
+   "Aprendi que posso ajudar outras pessoas a aprenderem a programar e desenvolver softwares."
+2. [@hsbtiago](https://github.com/hsbtiago "Tiago Bernardo")
+   "Acabei de aprender a usar o git e serei o maior hokage de todos os tempos, tô certo!"
+3. [@wesleylimadasilva](https://github.com/wesleylimadasilva)
+   "Estou aprendendo Git com o Flávio....bora programar agora"
+4. [@seu-nick-github](https://github.com/seu-link)
+   "Colocar um comentário"
